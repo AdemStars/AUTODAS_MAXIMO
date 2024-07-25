@@ -6,8 +6,8 @@
 // @author       Adi Lasri
 // @match        https://maximo.hivory.fr/maximo/ui/*
 // @grant        none
-// @updateURL
-// @downloadURL
+// @updateURL   https://raw.githubusercontent.com/Operation-Maintenance/AUTODAS_MAXIMO/main/autodas.js
+// @downloadURL https://raw.githubusercontent.com/Operation-Maintenance/AUTODAS_MAXIMO/main/autodas.js
 // ==/UserScript==
 
 
